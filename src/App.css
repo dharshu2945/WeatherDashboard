@@ -1,0 +1,65 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #4e73df, #1cc88a);
+}
+
+.app-container {
+  text-align: center;
+  padding: 40px;
+}
+
+.title {
+  color: white;
+}
+
+.weather-card {
+  width: 90%;
+  margin: 30px auto;
+  text-align: center;
+}
+
+input, select {
+  padding: 10px 15px;           
+  font-size: 16px;               
+  border: 1px solid #ccc;        
+  border-radius: 5px;            
+  outline: none;                 
+  transition: border 0.3s;      
+}
+
+input:focus, select:focus {
+  border: 2px solid #1cc88a;     
+}
+
+button {
+  cursor: pointer;
+  background-color: #1cc88a;      
+  color: white;                   
+  border: none;                  
+  border-radius: 5px;            
+  padding: 10px 20px;             
+  font-size: 16px;                
+  transition: background 0.3s;    
+}
+table {
+  width: 80%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  background-color: #f5f5f5; 
+}
+
+th, td {
+  border: 1px solid #000000;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #4CAF50; 
+  color: white;
+}
+
+td {
+  background-color: #e0f7fa; 
+}
