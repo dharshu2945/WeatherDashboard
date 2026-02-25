@@ -1,16 +1,14 @@
-# React + Vite
+Weather Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based web application that displays and filters historical weather data for Delhi from nearly two decades. Users can search and view temperature, humidity, pressure, and heat index by date, month, or year. The dashboard provides a clean and interactive interface for quick insights into weather patterns. It uses CSV data as the source and demonstrates basic data handling, state management, and dynamic rendering in React.
 
-Currently, two official plugins are available:
+<img width="1919" height="960" alt="image" src="https://github.com/user-attachments/assets/f8ff26e8-72f6-431d-8199-58a930b4d89a" />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/584652e5-4471-49af-9006-53b41878cd40" />
 
-## React Compiler
+<img width="1907" height="970" alt="image" src="https://github.com/user-attachments/assets/0011e73f-af57-455b-95b1-ec02a3b8decf" />
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<img width="1919" height="973" alt="image" src="https://github.com/user-attachments/assets/de6be74b-c672-4b21-a367-7c35035c7a6c" />
 
-## Expanding the ESLint configuration
+<img width="1916" height="978" alt="image" src="https://github.com/user-attachments/assets/b2543d10-4cd0-4b32-9343-9301da23a6ae" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
